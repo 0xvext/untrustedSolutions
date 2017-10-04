@@ -1,4 +1,4 @@
-#Set the function phone to cycle the player color
+#Set the function phone to cycle the player color.
         var player = map.getPlayer();
         
 		    if (player.getColor() == '#0f0'){player.setColor('#f00')}
